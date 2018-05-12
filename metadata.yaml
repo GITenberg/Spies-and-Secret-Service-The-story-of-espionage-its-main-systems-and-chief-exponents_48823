@@ -1,10 +1,16 @@
 _repo: Spies-and-Secret-Service-The-story-of-espionage-its-main-systems-and-chief-exponents_48823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48823-h/images/cover.jpg
 creator:
   author:
     agent_name: Grant, Hamil
     gutenberg_agent_id: '44984'
     url: http://www.gutenberg.org/2009/agents/44984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48823#Spies-and-Secret-Service-The-story-of-espionage-its-main-systems-and-chief-exponents
 gutenberg_issued: '2015-04-29'
 gutenberg_type: Text
 identifiers:
